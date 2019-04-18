@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/bin/Debug/netcoreapp2.2/MonsterHunter.deps.json
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/bin/Debug/netcoreapp2.2/MonsterHunter.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/bin/Debug/netcoreapp2.2/MonsterHunter.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/bin/Debug/netcoreapp2.2/MonsterHunter.dll
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/bin/Debug/netcoreapp2.2/MonsterHunter.pdb
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.dll
+/Users/croninsw/workspace/csharp/exercises/MonsterHunter/obj/Debug/netcoreapp2.2/MonsterHunter.pdb

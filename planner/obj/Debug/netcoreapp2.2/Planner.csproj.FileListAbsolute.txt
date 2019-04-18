@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/Planner.deps.json
+/Users/croninsw/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/Planner.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/Planner.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/Planner.dll
+/Users/croninsw/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/Planner.pdb
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.dll
+/Users/croninsw/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/Planner.pdb

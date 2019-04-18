@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.2/sets.deps.json
+/Users/croninsw/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.2/sets.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.2/sets.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.2/sets.dll
+/Users/croninsw/workspace/csharp/exercises/sets/bin/Debug/netcoreapp2.2/sets.pdb
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.dll
+/Users/croninsw/workspace/csharp/exercises/sets/obj/Debug/netcoreapp2.2/sets.pdb

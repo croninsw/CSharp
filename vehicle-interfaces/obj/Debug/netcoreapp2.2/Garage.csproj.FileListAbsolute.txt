@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.deps.json
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.dll
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.pdb
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.dll
+/Users/croninsw/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.pdb

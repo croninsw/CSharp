@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/zoo/bin/Debug/netcoreapp2.2/ZooZaniness.deps.json
+/Users/croninsw/workspace/csharp/exercises/zoo/bin/Debug/netcoreapp2.2/ZooZaniness.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/zoo/bin/Debug/netcoreapp2.2/ZooZaniness.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/zoo/bin/Debug/netcoreapp2.2/ZooZaniness.dll
+/Users/croninsw/workspace/csharp/exercises/zoo/bin/Debug/netcoreapp2.2/ZooZaniness.pdb
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.dll
+/Users/croninsw/workspace/csharp/exercises/zoo/obj/Debug/netcoreapp2.2/ZooZaniness.pdb

@@ -1,0 +1,11 @@
+/Users/croninsw/workspace/csharp/exercises/trycatch/bin/Debug/netcoreapp2.2/trycatch.deps.json
+/Users/croninsw/workspace/csharp/exercises/trycatch/bin/Debug/netcoreapp2.2/trycatch.runtimeconfig.json
+/Users/croninsw/workspace/csharp/exercises/trycatch/bin/Debug/netcoreapp2.2/trycatch.runtimeconfig.dev.json
+/Users/croninsw/workspace/csharp/exercises/trycatch/bin/Debug/netcoreapp2.2/trycatch.dll
+/Users/croninsw/workspace/csharp/exercises/trycatch/bin/Debug/netcoreapp2.2/trycatch.pdb
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.csprojAssemblyReference.cache
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.csproj.CoreCompileInputs.cache
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.AssemblyInfoInputs.cache
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.AssemblyInfo.cs
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.dll
+/Users/croninsw/workspace/csharp/exercises/trycatch/obj/Debug/netcoreapp2.2/trycatch.pdb
